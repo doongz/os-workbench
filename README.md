@@ -1,21 +1,23 @@
+# 南京大学 操作系统：设计与实现 (2022 春季学期)
 
-# 南京大学 操作系统：设计与实现 (2022 春季学期) 
+## Introduction
 
-授课老师：蒋炎岩
+- 所属大学：南京大学
+- 授课老师：蒋炎岩
+- 编程语言：C
+- 课程难度：🌟🌟🌟🌟
+- 预计学时：Two months
 
-课程链接：[http://jyywiki.cn/OS/2022/ ](http://jyywiki.cn/OS/2022/ )
+## Resources
 
-视频课：[https://space.bilibili.com/202224425/video](https://space.bilibili.com/202224425/video)
+- 课程链接：[http://jyywiki.cn/OS/2022/ ](http://jyywiki.cn/OS/2022/ )
+- 视频课：[https://space.bilibili.com/202224425/video](https://space.bilibili.com/202224425/video)
+- 教科书：[https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- From: [NJU-ProjectN/os-workbench-2022](https://github.com/NJU-ProjectN/os-workbench-2022)
+- Document: [http://jyywiki.cn/OS/2022/](http://jyywiki.cn/OS/2022/)
+- Reference: [jiaweihawk](https://jiaweihawk.gitee.io/)
 
-教科书：[https://pages.cs.wisc.edu/~remzi/OSTEP/](https://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-From: [NJU-ProjectN/os-workbench-2022](https://github.com/NJU-ProjectN/os-workbench-2022)
-
-Document: [http://jyywiki.cn/OS/2022/](http://jyywiki.cn/OS/2022/)
-
-Reference: [jiaweihawk](https://jiaweihawk.gitee.io/)
-
-## OS Workbench
+## Labs
 
 - [x] [打印进程树 (pstree)](./sperf)
 - [x] [线程库 (thread)](./thread)
